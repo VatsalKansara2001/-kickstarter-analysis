@@ -10,6 +10,8 @@ Our client's one of the plays are coming closer to reaching its fundraising goal
 ### Analysis of Outcomes Based on Launch Date-Part 1
 The analysis was performed by creating pivot chart and changing the pivot fields according to criteria.The pivot table field criteria have been portrayed below.
 
+![](https://github.com/VatsalKansara2001/kickstarter-analysis/blob/main/PivotTable%20Fields%20Criteria.png)
+
 
 ### Analysis of Outcomes Based on Goals-Part 2
 For the analysis of outcomes of the plays based on goals, 3 criteria were selected to populate the number of successful, failed and canceled plays.
